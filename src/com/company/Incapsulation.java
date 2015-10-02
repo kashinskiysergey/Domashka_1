@@ -16,6 +16,3 @@ public class Incapsulation {
     }
 
 }
-
-git config --global user.email "kashinskiysergey@ukr.net"
-        git config --global user.name "Sergey"
